@@ -6,7 +6,7 @@ To create and execute SOAP-based web service program using server, client and cl
 
 ## Procedure:
 
-### Server-side:
+### Server-side: 
 #### Step 1:
 Open NetBeans IDE.
 #### Step 2:
@@ -77,7 +77,8 @@ Deploying might take time depending on the size of the project.
 
 ### Step 14:
 Once your project is successfully deployed, right-click on your web service name and select “Test Web Service”
- ![14](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4c82ecec-fe36-4826-96bb-37dd25bb0f75)
+
+![14](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4c82ecec-fe36-4826-96bb-37dd25bb0f75)
 
  
 
